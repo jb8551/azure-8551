@@ -1,0 +1,9 @@
+{
+	"name": "ambati-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0013f607-4f25-4ced-9395-e7e9c81de7fd",
+		"tenantId": "c6da3b63-e97a-4b5b-9057-7d0a4769c7be"
+	}
+}
