@@ -12,7 +12,7 @@
 				}
 			},
 			{
-				"name": "Wait-30days",
+				"name": "Wait-1daylater",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
